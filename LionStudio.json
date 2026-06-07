@@ -1,1 +1,39 @@
-
+{
+  "shop": "LionStudio",
+  "updatedAt": "2026-06-07T19:44:41.536Z",
+  "users": {
+    "1175486257934127104": {
+      "userId": "1175486257934127104",
+      "username": "komendant8201",
+      "totalSpent": 30,
+      "purchases": [
+        {
+          "id": "1780861481272-afrx1m",
+          "userId": "1175486257934127104",
+          "username": "komendant8201",
+          "product": "Liverka",
+          "amount": 30,
+          "addedById": "1175486257934127104",
+          "addedByName": "komendant8201",
+          "guildId": "1513264731270680657",
+          "channelId": "1513267338814820563",
+          "createdAt": "2026-06-07T19:44:41.272Z"
+        }
+      ]
+    }
+  },
+  "purchases": [
+    {
+      "id": "1780861481272-afrx1m",
+      "userId": "1175486257934127104",
+      "username": "komendant8201",
+      "product": "Liverka",
+      "amount": 30,
+      "addedById": "1175486257934127104",
+      "addedByName": "komendant8201",
+      "guildId": "1513264731270680657",
+      "channelId": "1513267338814820563",
+      "createdAt": "2026-06-07T19:44:41.272Z"
+    }
+  ]
+}
