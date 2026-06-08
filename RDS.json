@@ -1,1 +1,39 @@
-
+{
+  "shop": "Roleplay Design Studio",
+  "updatedAt": "2026-06-08T12:33:03.217Z",
+  "users": {
+    "942110955502989373": {
+      "userId": "942110955502989373",
+      "username": "AdviceBot#3135",
+      "totalSpent": 300,
+      "purchases": [
+        {
+          "id": "1780921982972-mytyf9",
+          "userId": "942110955502989373",
+          "username": "AdviceBot#3135",
+          "product": "malowania",
+          "amount": 300,
+          "addedById": "946356612120076289",
+          "addedByName": "filipyt4362",
+          "guildId": "1448413784430481522",
+          "channelId": "1469369319904251945",
+          "createdAt": "2026-06-08T12:33:02.972Z"
+        }
+      ]
+    }
+  },
+  "purchases": [
+    {
+      "id": "1780921982972-mytyf9",
+      "userId": "942110955502989373",
+      "username": "AdviceBot#3135",
+      "product": "malowania",
+      "amount": 300,
+      "addedById": "946356612120076289",
+      "addedByName": "filipyt4362",
+      "guildId": "1448413784430481522",
+      "channelId": "1469369319904251945",
+      "createdAt": "2026-06-08T12:33:02.972Z"
+    }
+  ]
+}
