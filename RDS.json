@@ -1,6 +1,6 @@
 {
   "shop": "Roleplay Design Studio",
-  "updatedAt": "2026-06-08T12:56:36.492Z",
+  "updatedAt": "2026-06-08T12:57:12.263Z",
   "users": {
     "942110955502989373": {
       "userId": "942110955502989373",
@@ -44,6 +44,30 @@
           "createdAt": "2026-06-08T12:56:36.233Z"
         }
       ]
+    },
+    "1355971598070448392": {
+      "userId": "1355971598070448392",
+      "username": "jtysx.",
+      "totalSpent": 0,
+      "totalSpentByCurrency": {
+        "PLN": 0,
+        "ROBUX": 85
+      },
+      "purchases": [
+        {
+          "id": "1780923431972-1scqrw",
+          "userId": "1355971598070448392",
+          "username": "jtysx.",
+          "product": "malowania",
+          "amount": 85,
+          "currency": "ROBUX",
+          "addedById": "946356612120076289",
+          "addedByName": "filipyt4362",
+          "guildId": "1448413784430481522",
+          "channelId": "1448929335380807680",
+          "createdAt": "2026-06-08T12:57:11.973Z"
+        }
+      ]
     }
   },
   "purchases": [
@@ -71,6 +95,19 @@
       "guildId": "1448413784430481522",
       "channelId": "1448929335380807680",
       "createdAt": "2026-06-08T12:56:36.233Z"
+    },
+    {
+      "id": "1780923431972-1scqrw",
+      "userId": "1355971598070448392",
+      "username": "jtysx.",
+      "product": "malowania",
+      "amount": 85,
+      "currency": "ROBUX",
+      "addedById": "946356612120076289",
+      "addedByName": "filipyt4362",
+      "guildId": "1448413784430481522",
+      "channelId": "1448929335380807680",
+      "createdAt": "2026-06-08T12:57:11.973Z"
     }
   ]
 }
