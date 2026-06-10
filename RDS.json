@@ -1,6 +1,6 @@
 {
   "shop": "Roleplay Design Studio",
-  "updatedAt": "2026-06-08T13:05:11.600Z",
+  "updatedAt": "2026-06-10T19:03:18.387Z",
   "users": {
     "942110955502989373": {
       "userId": "942110955502989373",
@@ -92,6 +92,30 @@
           "createdAt": "2026-06-08T13:05:11.315Z"
         }
       ]
+    },
+    "1260288646561665145": {
+      "userId": "1260288646561665145",
+      "username": "pusko04",
+      "totalSpent": 20,
+      "totalSpentByCurrency": {
+        "PLN": 20,
+        "ROBUX": 0
+      },
+      "purchases": [
+        {
+          "id": "1781118198089-1zduzi",
+          "userId": "1260288646561665145",
+          "username": "pusko04",
+          "product": "Brulee",
+          "amount": 20,
+          "currency": "PLN",
+          "addedById": "946356612120076289",
+          "addedByName": "filipyt4362",
+          "guildId": "1448413784430481522",
+          "channelId": "1513525805848727612",
+          "createdAt": "2026-06-10T19:03:18.089Z"
+        }
+      ]
     }
   },
   "purchases": [
@@ -145,6 +169,19 @@
       "guildId": "1448413784430481522",
       "channelId": "1513525805848727612",
       "createdAt": "2026-06-08T13:05:11.315Z"
+    },
+    {
+      "id": "1781118198089-1zduzi",
+      "userId": "1260288646561665145",
+      "username": "pusko04",
+      "product": "Brulee",
+      "amount": 20,
+      "currency": "PLN",
+      "addedById": "946356612120076289",
+      "addedByName": "filipyt4362",
+      "guildId": "1448413784430481522",
+      "channelId": "1513525805848727612",
+      "createdAt": "2026-06-10T19:03:18.089Z"
     }
   ]
 }
