@@ -1,6 +1,6 @@
 {
   "shop": "Roleplay Design Studio",
-  "updatedAt": "2026-07-13T09:31:47.525Z",
+  "updatedAt": "2026-07-17T21:14:10.415Z",
   "users": {
     "942110955502989373": {
       "userId": "942110955502989373",
@@ -140,6 +140,30 @@
           "createdAt": "2026-07-13T09:31:40.476Z"
         }
       ]
+    },
+    "946356612120076289": {
+      "userId": "946356612120076289",
+      "username": "filipyt4362",
+      "totalSpent": 0,
+      "totalSpentByCurrency": {
+        "PLN": 0,
+        "ROBUX": 67
+      },
+      "purchases": [
+        {
+          "id": "1784322850012-yzpj3u",
+          "userId": "946356612120076289",
+          "username": "filipyt4362",
+          "product": "test",
+          "amount": 67,
+          "currency": "ROBUX",
+          "addedById": "946356612120076289",
+          "addedByName": "filipyt4362",
+          "guildId": "1448413784430481522",
+          "channelId": "1513525805848727612",
+          "createdAt": "2026-07-17T21:14:10.012Z"
+        }
+      ]
     }
   },
   "purchases": [
@@ -219,6 +243,19 @@
       "guildId": "1448413784430481522",
       "channelId": "1513525805848727612",
       "createdAt": "2026-07-13T09:31:40.476Z"
+    },
+    {
+      "id": "1784322850012-yzpj3u",
+      "userId": "946356612120076289",
+      "username": "filipyt4362",
+      "product": "test",
+      "amount": 67,
+      "currency": "ROBUX",
+      "addedById": "946356612120076289",
+      "addedByName": "filipyt4362",
+      "guildId": "1448413784430481522",
+      "channelId": "1513525805848727612",
+      "createdAt": "2026-07-17T21:14:10.012Z"
     }
   ]
 }
